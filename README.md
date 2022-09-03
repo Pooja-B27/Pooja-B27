@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
-<img src="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top" /> 
-
+<img align="right" alt="coding" width="400" src="https://image.shutterstock.com/image-vector/cartoon-girl-brackets-working-on-260nw-261544175.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja&label=Profile%20views&color=0e75b6&style=flat" alt="pooja" /> 
 
 - 🌱 I’m currently learning **React Native**
