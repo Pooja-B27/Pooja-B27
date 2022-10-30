@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja&label=Profile%20views&color=0e75b6&style=flat" alt="pooja" /> 
 
 - 🌱 I’m currently learning java
+- 🌱 I’m currently learning java
 
 - 📫 How to reach me **bpooja37202@gmail.com**
 
