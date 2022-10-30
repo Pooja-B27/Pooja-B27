@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer and programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://image.shutterstock.com/image-vector/cartoon-girl-brackets-working-on-260nw-261544175.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja&label=Profile%20views&color=0e75b6&style=flat" alt="pooja" /> 
-
-- 🌱 I’m currently learning java
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 
 - 📫 How to reach me **bpooja37202@gmail.com**
 
